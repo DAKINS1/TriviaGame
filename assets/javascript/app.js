@@ -36,7 +36,7 @@ var imageArr = ["<img class='center-block image' src='assets/images/nedstark.png
 "<img class='center-block image' src='assets/images/arya.png'>",
 "<img class='center-block image' src='assets/images/joffrey.png'>",
 "<img class='center-block image' src='assets/images/jonsnow.png'>",
-"<img class='center-block image' src='assets/images/bran.png'>",
+"<img class='center-block image' src='assets/images/Bran.png'>",
 "<img class='center-block image' src='assets/images/tyrion.png'>"];
 
 var rightAnswer = [" Ice", " A gift at her wedding", " 6 times", " Valyrian Steel", " Sand", " All men must die",
